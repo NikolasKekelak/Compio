@@ -51,7 +51,7 @@ namespace ConsoleApp1.GameCode.Building.Interfaces;
  *  - Solar panels, Wind turbines
  *  - Nuclear Reactors (Uranium, Plutonium)
  *  - Fusion Reactors (Deuterium + Tricium = Super heated helium)
- *  - 
+ *  
  *  - 
  */
 

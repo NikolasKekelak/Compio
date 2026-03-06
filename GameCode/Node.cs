@@ -2,17 +2,12 @@ namespace ConsoleApp1.GameCode;
 
 public class Node : Entity
 {
-    public override void getSpriteLocation()
+    public override void Update(float deltaTime)
     {
         throw new NotImplementedException();
     }
 
-    public override void update()
-    {
-        throw new NotImplementedException();
-    }
-
-    public override void render()
+    public override void Render()
     {
         throw new NotImplementedException();
     }
