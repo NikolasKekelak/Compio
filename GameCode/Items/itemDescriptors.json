@@ -1,0 +1,55 @@
+{
+  "Items": {
+    "Resources": {
+      "0": ["Iron Ore", "/iron_ore.png"],
+      "1": ["Copper Ore", "/copper_ore.png"],
+      "2": ["Gold Ore", "/gold_ore.png"],
+      "3": ["Bauxite", "/bauxite_ore.png"],
+      "4": ["Niobium Ore", "/niobium_ore.png"],
+      "5": ["Sulfur Crystals", "/sulfur_ore.png"],
+      "6": ["Titanium Ore", "/titanium_ore.png"],
+      "7": ["Lead Ore", "/lead_ore.png"],
+      "8": ["Uranium Ore", "/uranium_ore.png"],
+      "9": ["Silicon Ore", "/silicon_ore.png"],
+      "10": ["Platinium Ore", "/platinium_ore.png"],
+      "11": ["Limestone", "/limestone.png"],
+      "12": ["Sand", "/sand.png"],
+      
+      "27": ["Iron Dust", "/iron_dust.png"],
+      "28": ["Silica", "/silica.png"],
+      "29": ["Titanium Scraps", "/titanium_scraps.png"],
+      "30": ["Alumina Powder" , "/alumina_powder.png"],
+      "31": ["Silicon Powder", "/silicon_powder.png"],
+      "32": ["Pure Silicon Crystal", "/silicon_crystal.png"],
+      
+      "33": ["Iron Ingot", "/iron_ingot.png"],
+      "34": ["Copper Ingot", "/copper_ingot.png"],
+      "35": ["Gold Ingot", "/gold_ingot.png"],
+      "36": ["Platinium Ingot", "/platinium_ingot.png"],
+      "37": ["Niobium Ingot", "/niobium_ingot.png"],
+      "38": ["Titanium Ingot", "/titanium_ingot.png"],
+      "39": ["Lead Ingot", "/lead_ingot.png"],
+      "40": ["Uranium Ingot", "/uranium_ingot.png"],
+      "41": ["Silicon Ingot", "/silicon_ingot.png"],
+      "42": ["Aluminium Ingot", "/alumina_ingot.png"]
+    },
+    "Fuel": {
+      "13": ["Coal", "/coal.png"],
+      "14": ["Biomass", "/biomass.png"],
+      "15": ["Wood", "/wood.png"]
+    },
+    "Components": {
+      "16": ["Iron Plate", "/iron_plate.png"],
+      "17": ["Copper Plate", "/copper_plate.png"],
+      "26" : ["Copper Wire","/copper_wire.png"],
+      "18": ["Gold Plate", "/gold_plate.png"],
+      "19": ["Bauxite Plate", "/bauxite_plate.png"],
+      "20": ["Niobium Plate", "/niobium_plate.png"],
+      "21": ["Sulfur Crystals", "/sulfur_plate.png"],
+      "22": ["Titanium Plate", "/titanium_plate.png"],
+      "23": ["Lead Plate", "/lead_plate.png"],
+      "25": ["Silicon Plate", "/silicon_plate.png"]
+      
+    },
+  }
+}

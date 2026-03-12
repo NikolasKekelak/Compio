@@ -30,12 +30,12 @@ namespace ConsoleApp1.GameCode.Building.Interfaces;
  *  -  Electric Furnace T2 , more energy efficient
  *  -  Smeltery - 1-3 input, 1 liquid output, less energy efficient but more items per ore
  *  -  Industrial Furnace - 1-3 inputs, 2 liquid outputs. Power hungry, but fast and very efficient. END GAME
- *
+ * 
  *  - Miner T1 - 1x mining speed. Can mine: coal, iron, copper, limestone
  *  - Miner T2 - 2x mining speed. Can mine: Silicon, Titanium, Alluminium, Platinium, Lead
  *  - Miner T3 - 4x mining speed. Can mine: Uranium, Plutonium, Gold, Diamond, Niobium
  *  - Miner T4 - 8x mining speed. END GAME
- *
+ * 
  *  RESEARCH ( computers produce cartridges, while servers upload them and research them)
  *  - Computer - T1 and T2 research
  *  - Super Computer - T3 and T4 research
@@ -52,7 +52,8 @@ namespace ConsoleApp1.GameCode.Building.Interfaces;
  *  - Nuclear Reactors (Uranium, Plutonium)
  *  - Fusion Reactors (Deuterium + Tricium = Super heated helium)
  *  
- *  - 
+ *
+ * Ores: coal, iron, copper, limestone, Silicon, Titanium, Alluminium, Platinium, Lead, Uranium, ?Plutonium?, Gold, Diamond, Niobium, Sulfur
  */
 
 
