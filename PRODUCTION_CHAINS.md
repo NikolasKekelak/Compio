@@ -1,6 +1,20 @@
+
 ## T1
+Buildings: Miner, Solid Fuel Burner, Power Pole, Belt mk1, Pipe mk1
+End Components: Modular Frame, Basic Plating, Concrete, Cable, Copper-Iron Cladding,
+Primitive Circuit, Cartridge, Rotor
+
+### Basic Mineral Processing
 Iron Ore -> Iron Ingot (Furnace)
 Copper Ore -> Copper Ingot (Furnace)
+Limestone -> Concrete (Furnace)
+
+### Basic Part Production
+Buildings: Assembler
+Iron Ingot -> Rod | Plate
+Copper Ingot -> Plate | Wire
+
+## T2 (Age Of Steel)
 
 ## T3 (Ah yes... Oil..)
 Buildings Unlocked: Refinery, Chemical Plant, Oil Pump
@@ -33,7 +47,7 @@ Platinium Granules -> Oxygen + Nitrogen + Hydrogen + CO2 (Atmospheric Condenser)
 CO2 + Energy -> Oxygen(2) + Carbon
 
 
-## T6   (Age of Advanced Metalurgy)
+## T6   (Advanced Metalurgy)
 
 ### Titanium production chain
 Titanium ore (10) + Water (5) + Limestone -> Titanium Slurry (20) (Crusher)
@@ -62,3 +76,5 @@ Buildings: Industrial Furnace (Passively requires a lot of Oxygen), Anvil, Elect
 [Iron, Copper, Gold] Solution(20) + Carbon(3) -> [Iron, Copper, Gold] Scraps (50) + Magnesium (20) + water(3) (Electrolyzer)
 aaand Scraps -> Molten Metal -> Ingots... Add unique chains and numbers
 
+## T7
+## T8
